@@ -6,7 +6,7 @@ Sombra Digital com Visão Computacional para Rastreamento de Objetos no Unity
 > Uma breve descrição do seu projeto (1-2 frases)
 
 ## 📋 Índice
-- [Sobre](#sobre)
+- [Sobre](#Sobre o Projeto)
 - [Arquitetura](#arquitetura)
 - [Tecnologias](#tecnologias)
 - [Pré-requisitos](#pré-requisitos)
@@ -17,7 +17,7 @@ Sombra Digital com Visão Computacional para Rastreamento de Objetos no Unity
 - [Autor](#autor)
 - [Licença](#licença)
 
-## 🎯 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto implementa uma **Sombra Digital (Digital Shadow)** para manufatura virtual no Unity 3D.
 
