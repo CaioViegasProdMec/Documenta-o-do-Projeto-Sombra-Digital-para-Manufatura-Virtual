@@ -6,7 +6,7 @@ Sombra Digital com Visão Computacional para Rastreamento de Objetos no Unity
 > Uma breve descrição do seu projeto (1-2 frases)
 
 ## 📋 Índice
-- [Sobre](#Sobre o Projeto)
+- [Sobre](#SobreoProjeto)
 - [Arquitetura](#arquitetura)
 - [Tecnologias](#tecnologias)
 - [Pré-requisitos](#pré-requisitos)
